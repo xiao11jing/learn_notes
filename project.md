@@ -55,6 +55,7 @@
 | 进度 | commit（一天至少一个） | 每段 |
 | 卡点 | notes/pitfalls.md，一行一条 | 想放弃时 |
 | 代码词汇 | notes/glossary.md，一行一条 | 遇到不懂的 |
+| 概念卡 | Obsidian 库 django_note/卡片，一张卡一个概念 | 每周 2–3 张 |
 | 周汇报 | notes/weekly.md，一句话 | 周日 |
 
 ## 6. 当前周任务（2026-10-19 起）
